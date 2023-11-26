@@ -12,7 +12,13 @@ Seoul Metropolitan Government provides many public data, including air pollution
 
 ### Installation:
 Install the package, then load the data and function-containing library.  
-      library(SAWpollut)
+```library(SAWpollut)```
+
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
 ### Setting up the environment
 ''pollution_data <- load_data()''
 ''data <- load_data()''
