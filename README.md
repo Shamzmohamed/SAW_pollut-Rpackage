@@ -8,4 +8,12 @@ This dataset encompasses comprehensive air pollution measurement data within Seo
 
 The measurements were conducted on an hourly basis throughout the entirety of 2019, providing a granular understanding of pollution levels. This extensive dataset covers air quality observations across *25 distinct districts* within the city of Seoul. Researchers and analysts can harness this data to unravel intricate trends, identify pollution sources, and derive valuable insights into the environmental landscape of Seoul. The inclusion of soil and water pollution data further enriches the dataset’s potential, enabling a holistic examination of various pollution vectors and their interconnections.  
 
-Seoul Metropolitan Government provides many public data, including air pollution information, through the [Open Data Plaza](https://data.seoul.go.kr/)
+Seoul Metropolitan Government provides many public data, including air pollution information, through the [Open Data Plaza](https://data.seoul.go.kr/)  
+
+### Installation:
+Install the package, then load the data and function-containing library.  
+''library(SAWpollut)''  
+### Setting up the environment
+''pollution_data <- load_data()''
+''data <- load_data()''
+''print(head(pollution_data))''
