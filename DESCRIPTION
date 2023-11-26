@@ -1,0 +1,15 @@
+Package: SAWpollut
+Type: Package
+Title: Pollution Analysis
+Version: 0.1.0
+Author: Mohamed Shamsudeen
+Maintainer: Mohamed Shamsudeen <shamsudeen.m@uni-muenster.com>
+Description: The "sawpollut" R package is a versatile toolkit designed for analyzing and visualizing pollution data across various environmental domains—soil, air, and water. With a range of tools, it aids in identifying pollution patterns, exploring seasonal variations, and uncovering temporal trends.
+License: What license is it under?
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+Imports: akima, lubridate
+NeedsCompilation: no
+Packaged: 2023-08-13 13:42:54 UTC; mmohamed
