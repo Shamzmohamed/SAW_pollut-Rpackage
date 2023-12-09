@@ -28,3 +28,6 @@ I have created 8 functions for this R package.
 | `intpol`         | Interpolation                         |
 |`d2a_conv`        | Daily to Annual Pollution Conversion  |
 |`clust`           |Cluster Analysis of Pollutant Profiles |
+|`dm_plots`        |Daily, Monthly Time Series Plots       |
+|`anomaldet`       |Anomaly Detection                      |
+|`matplot`         |Matrix Plot                            |
