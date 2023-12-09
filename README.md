@@ -22,3 +22,9 @@ data <- load_data()
 print(head(pollution_data))
 ```
 I have created 8 functions for this R package.
+
+|Function Name   |                 Used                  |
+| -------------  |:-------------------------------------:|
+| intpol         | Interpolation                         |
+|d2a_conv        | Daily to Annual Pollution Conversion  |
+|clust           |Cluster Analysis of Pollutant Profiles |
