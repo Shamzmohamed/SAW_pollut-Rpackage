@@ -31,3 +31,4 @@ I have created 8 functions for this R package.
 |`dm_plots`        |Daily, Monthly Time Series Plots       |
 |`anomaldet`       |Anomaly Detection                      |
 |`matplot`         |Matrix Plot                            |
+|`seaso`           |Seasonal Analysis                      |
