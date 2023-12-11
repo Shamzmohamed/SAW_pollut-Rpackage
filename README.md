@@ -32,3 +32,4 @@ I have created 8 functions for this R package.
 |`anomaldet`       |Anomaly Detection                      |
 |`matplot`         |Matrix Plot                            |
 |`seaso`           |Seasonal Analysis                      |
+|`correg`          |Correlation and Regression Analysis    |
