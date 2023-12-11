@@ -21,6 +21,7 @@ pollution_data <- load_data()
 data <- load_data()
 print(head(pollution_data))
 ```
+### Functions
 I have created 8 functions for this R package.
 
 |Function Name     |                 Used                  |
