@@ -11,7 +11,7 @@ The measurements were conducted on an hourly basis throughout the entirety of 20
 Seoul Metropolitan Government provides many public data, including air pollution information, through the [Open Data Plaza](https://data.seoul.go.kr/)  
 
 ### Installation:
-Install the package, then load the data and function-containing library.  
+Install the package, then load the data and function-containing library.
 ```
 library(SAWpollut)
 ```
